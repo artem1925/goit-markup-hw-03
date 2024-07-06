@@ -91,6 +91,12 @@ img {
 .adress {
   font-style: normal;
 }
+
+.adress-nav {
+  display: flex;
+  gap: 40px;
+}
+
 .adress-nav-list {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
