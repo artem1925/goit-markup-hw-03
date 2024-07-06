@@ -248,7 +248,7 @@ img {
 }
 
 .logo-f {
-  display: block;
+  display: inline-block;
   margin-bottom: 16px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -257,6 +257,8 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  width: 100%;
+  text-align: center;
 }
 
 .logof {
