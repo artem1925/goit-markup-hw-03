@@ -20,8 +20,8 @@ img {
 }
 /*Header*/
 /*logo*/
-.page-header {
-  display: flex;
+.header-logo {
+  margin-right: 76px;
 }
 .header-nav {
   display: flex;
