@@ -177,7 +177,7 @@ img {
   display: flex;
   gap: 24px;
 }
-.list-benefits:first-child {
+.list-one {
   width: calc((100% - 72px) / 4);
 }
 
