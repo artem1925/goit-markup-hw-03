@@ -182,14 +182,10 @@ img {
 }
 
 .list-benefits-page {
-  flex-basis: calc(
-    (100% - 3 * 24px) / 4
-  ); /* Встановлення ширини елементів у ряду */
-  background-color: #f4f4fd; /* Зміна фону за потреби */
-  padding: 20px; /* Внутрішні відступи */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Додавання тіні до елементів */
-  border-radius: 8px; /* Округлення кутів */
-  text-align: center; /* Вирівнювання тексту по центру */
+  flex-basis: calc((100% - 3 * 24px) / 4);
+  text-align: center;
+  padding: 30px;
+  background-color: #f4f4fd;
 }
 
 .advantage {
