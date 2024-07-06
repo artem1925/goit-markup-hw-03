@@ -141,6 +141,7 @@ img {
   height: 56px;
   border: none;
   border-radius: 4px;
+  display: block;
 }
 .button:hover {
   background: #404bbf;
