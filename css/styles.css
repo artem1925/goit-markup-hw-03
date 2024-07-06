@@ -221,6 +221,7 @@ img {
 }
 
 .box-model {
+  width: calc((100% - 72px) / 4);
   background: #fff;
 }
 .team {
