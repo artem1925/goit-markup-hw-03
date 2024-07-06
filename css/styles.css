@@ -3,6 +3,9 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
 }
+img {
+  display: block;
+}
 
 /* Скидання підкреслення для посилань */
 a {
