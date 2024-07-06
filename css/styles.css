@@ -237,6 +237,19 @@ img {
   flex-direction: column;
   align-items: center;
 }
+
+.logo-f {
+  display: inline-block;
+  margin-bottom: 16px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
 .logof {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
