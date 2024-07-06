@@ -20,6 +20,13 @@ img {
 }
 /*Header*/
 /*logo*/
+
+.container {
+  padding: 0 15px 0 15px;
+  width: 1158px;
+  display: flex;
+}
+
 .header-logo {
   margin-right: 76px;
 }
