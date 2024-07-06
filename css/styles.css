@@ -177,7 +177,7 @@ img {
   display: flex;
   gap: 24px;
 }
-.list-benefits-page {
+.list-benefits-page:first-child {
   width: calc((100% - 72px) / 4);
 }
 .advantage {
