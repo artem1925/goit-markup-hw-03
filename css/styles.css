@@ -157,10 +157,29 @@ img {
 /*block 2*/
 /*list of advantages*/
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
 .block-two {
   padding: 120px 0;
 }
-
+.list-benefits {
+  display: flex;
+  gap: 24px;
+}
+.list-benefits-page {
+  width: calc((100% - 72px) / 4);
+}
 .advantage {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -168,6 +187,7 @@ img {
   line-height: 120%;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .advantage-description {
   font-family: "Roboto", sans-serif;
