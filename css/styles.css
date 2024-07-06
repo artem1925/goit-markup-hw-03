@@ -267,6 +267,11 @@ img {
 }
 /*block-4*/
 /*portfolio*/
+
+.block-portfolio {
+  padding: 120px 0 120px 0;
+}
+
 .portfolio {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
