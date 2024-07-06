@@ -124,6 +124,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  max-width: 496px;
 }
 .block-one {
   background-color: #2e2f42;
