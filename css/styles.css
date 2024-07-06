@@ -179,7 +179,7 @@ img {
 }
 
 .list-benefits-page {
-  width: calc((100% - 72px) / 4);
+  flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 .advantage {
