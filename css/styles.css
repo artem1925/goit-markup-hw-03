@@ -178,16 +178,12 @@ img {
   gap: 24px;
 }
 
-.list-benefits-page:first-child {
-  flex-basis: calc((100% - 3 * 24px));
-}
-
-/*.list-benefits-page {
-  width: calc((100% - 72px) / 4);
+.list-benefits-page {
+  flex-basis: calc((100% - 3 * 24px) / 4);
   text-align: center;
   padding: 30px;
   background-color: #f4f4fd;
-}*/
+}
 
 .advantage {
   font-family: "Roboto", sans-serif;
